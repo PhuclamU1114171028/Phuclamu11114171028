@@ -94,4 +94,5 @@ print('*** %s! Done by %s at ' % ('Good Job',sID),today)
 
 
 ## Your Show Time: Challenge 3: 如何用 matplotlib 繪製一個圓？
+![image](https://github.com/PhuclamU1114171028/Phuclamu11114171028/assets/162246935/4eef4a34-02c1-4a64-a549-ae2e9661a697)
 
